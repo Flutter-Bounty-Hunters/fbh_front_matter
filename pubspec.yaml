@@ -1,10 +1,10 @@
-name: front_matter
-version: 1.1.0
+name: fbh_front_matter
+version: 0.0.1
 description: A front matter parser that extracts YAML metadata from the start of a file or string.
-homepage: https://github.com/izolate/front-matter
-documentation: https://github.com/izolate/front-matter/blob/master/README.md
+homepage: https://github.com/flutter-bounty-hunters/fbh_front_matter
+
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 dependencies:
   yaml: ^3.1.1
 dev_dependencies:
