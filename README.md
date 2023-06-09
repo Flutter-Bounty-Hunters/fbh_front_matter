@@ -24,7 +24,7 @@ Use `parse` to parse a string, or `parseFile` to read a file and parse its conte
 
 ```dart
 import 'dart:io';
-import 'package:front_matter/front_matter.dart' as fm;
+import 'package:front_matter/fbh_front_matter.dart' as fm;
 
 // Example 1 - parse a string.
 void example1() async {

@@ -1,7 +1,7 @@
 import 'package:test/test.dart';
-import 'package:front_matter/front_matter.dart' as fm;
-import 'package:front_matter/src/front_matter_document.dart';
-import 'package:front_matter/src/front_matter_exception.dart';
+import 'package:fbh_front_matter/fbh_front_matter.dart' as fm;
+import 'package:fbh_front_matter/src/front_matter_document.dart';
+import 'package:fbh_front_matter/src/front_matter_exception.dart';
 
 const String _defaultDelimiter = '---';
 const String _defaultContent = 'Hello, world!';

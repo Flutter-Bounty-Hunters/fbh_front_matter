@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:front_matter/front_matter.dart' as fm;
+import 'package:fbh_front_matter/fbh_front_matter.dart' as fm;
 
 // Example 1 - Parse a string.
 Future<void> example1() async {
