@@ -1,3 +1,5 @@
+**This is a shallow port by the Flutter Bounty Hunters to release a usable version of front_matter on Pub. We aren't making any promises to support this package at this time.**
+
 # Front Matter
 
 A front matter parser that extracts YAML metadata from the start of a file or string.
